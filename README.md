@@ -8,10 +8,11 @@ The app shall know if the file in transit is already there in the destination di
 
 What the APP does (for now)...
 
-APP should be able to identify the source directory
-If the directory does not exist then the APPlication shall terminate execution.
-APP should be able to identify for the types of files that it is looking for.
-APP should be able to identify and list all files in the current and all sub-directories of the given source.
-Make a master list of files.
-Make a count of files to be copied.
+1. APP should be able to identify the source directory
+2. If the directory does not exist then the APPlication shall terminate execution.
+3. APP should be able to identify for the types of files that it is looking for.
+4. APP should be able to identify and list all files in the current and all sub-directories of the given source.
+5. Make a master list of files.
+6. Make a count of files to be copied.
+
 To be continued...
